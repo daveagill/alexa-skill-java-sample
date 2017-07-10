@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "DecimalToBinaryIntent",
+      "slots": [
+        {
+          "name": "number",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    }
+  ]
+}
